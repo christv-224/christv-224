@@ -1,26 +1,14 @@
-<h1 align="center">Hi 👋, I'm Christopher</h1>
+<h1 align="center">Hello guys! Christopher's here 🦖</h1>
 
 <p align="center">
-  <b>[WRITE A ONE-LINE IDENTITY HERE]</b><br>
-  <i>[Example: Student, self-hoster, Linux nerd, creative builder]</i>
+  <b>Certified hardworking pal</b><br>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-> [WRITE A SHORT PARAGRAPH HERE]
 
-**Talk about things like:**
-- What made you start using Linux, servers, or programming  
-- Why you self-host instead of using big cloud services  
-- What you enjoy building or breaking  
-- What you want to learn next  
-
-Example structure:
-> “I’m a ___ who loves ___ because ___.  
-> I spend most of my time working on ___ and experimenting with ___.  
-> Right now I’m focused on ___.”
 
 ---
 
