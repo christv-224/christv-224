@@ -8,7 +8,9 @@
 
 ## 🧠 About Me
 
-lfsdhf
+Hi, Im currently studying in software development, in Québec.
+Im a huge geek about any tech-related stuff, and reusing them, as much as i can.
+For the last year
 
 ---
 
