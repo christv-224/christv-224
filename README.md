@@ -1,11 +1,120 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/christopher verdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher verdi" height="30" width="40" /></a>
-<a href="https://fb.com/christo verdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christo verdi" height="30" width="40" /></a>
-<a href="https://instagram.com/christv224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christv224" height="30" width="40" /></a>
-<a href="https://discord.gg/christv22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="christv22" height="30" width="40" /></a>
+
+<p align="center">
+  <b>[WRITE A ONE-LINE IDENTITY HERE]</b><br>
+  <i>[Example: Student, self-hoster, Linux nerd, creative builder]</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+
+> [WRITE A SHORT PARAGRAPH HERE]
+
+**Talk about things like:**
+- What made you start using Linux, servers, or programming  
+- Why you self-host instead of using big cloud services  
+- What you enjoy building or breaking  
+- What you want to learn next  
+
+Example structure:
+> “I’m a ___ who loves ___ because ___.  
+> I spend most of my time working on ___ and experimenting with ___.  
+> Right now I’m focused on ___.”
+
+---
+
+## 🛠 What I’m Currently Working On
+
+- 🧪 **[PROJECT OR IDEA #1]** — [what it is and why it matters]
+- 🖥 **[PROJECT OR IDEA #2]** — [homelab, automation, games, websites, etc]
+- 📚 **[PROJECT OR IDEA #3]** — [learning goal, cert, language, etc]
+
+**Ideas you could put here:**
+- Your homelab (Docker, Tailscale, Jellyfin, Crafty, etc)
+- A Minecraft server
+- A website
+- A Linux setup
+- A game or mod
+- A monitoring system
+
+---
+
+## 🌍 Why I Self-Host
+
+> [WRITE A FEW SENTENCES]
+
+Talk about:
+- Privacy
+- Control
+- Learning how systems really work
+- Avoiding subscriptions
+- Running your own cloud
+
+---
+
+## 🧪 My Stack
+
+These are the tools I actually use, not just buzzwords.
+
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></a>
+</p>
+
+---
+
+## 🔥 What I’m Good At
+
+Write this as bullets:
+- **[Skill]** – [what you can actually do with it]
+- **[Skill]** – [servers, scripts, design, troubleshooting]
+- **[Skill]** – [real-world usage]
+
+Examples:
+- Docker → self-hosting services  
+- Linux → system setup, troubleshooting  
+- Web → small dashboards, landing pages  
+- Java → Minecraft servers, apps  
+
+---
+
+## 🧭 What I Want To Learn
+
+This makes you look serious:
+
+- [Example: Kubernetes]
+- [Example: Security & networking]
+- [Example: Reverse proxies]
+- [Example: Game server scaling]
+- [Example: Web apps]
+
+---
+
+## 📬 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/christopher verdi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<a href="https://fb.com/christo verdi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
+<a href="https://instagram.com/christv224" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+<a href="https://discord.gg/christv22" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/></a>
+</p>
+
+---
+
+## 🧠 Philosophy
+
+> [WRITE A QUOTE OR A BELIEF]
+
+Examples:
+- “Run your own infrastructure.”
+- “If I don’t understand it, I don’t trust it.”
+- “Self-hosting is digital independence.”
