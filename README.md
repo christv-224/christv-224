@@ -9,24 +9,18 @@
 ## 🧠 About Me
 
 Hi, Im currently studying in software development, in Québec.
+
 Im a huge geek about any tech-related stuff, and reusing them, as much as i can.
-For the last year
+After finishing my DEP in IT support, i've confirmed my intention of going in coding, as a first interest.
+Let me break it down further down:
+
 
 ---
 
 ## 🛠 What I’m Currently Working On
 
-- 🧪 **[PROJECT OR IDEA #1]** — [what it is and why it matters]
-- 🖥 **[PROJECT OR IDEA #2]** — [homelab, automation, games, websites, etc]
-- 📚 **[PROJECT OR IDEA #3]** — [learning goal, cert, language, etc]
-
-**Ideas you could put here:**
-- Your homelab (Docker, Tailscale, Jellyfin, Crafty, etc)
-- A Minecraft server
-- A website
-- A Linux setup
-- A game or mod
-- A monitoring system
+- 🧪 **[HMLAB-CRICRI]** — Homelab, private cloud server, dashboard, streaming, home automation, Minecraft server, monitoring and more
+- 🖥 **[JavaProject]** — Studying, class projects
 
 ---
 
@@ -48,16 +42,16 @@ Talk about:
 These are the tools I actually use, not just buzzwords.
 
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" width="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" width="40" /></a>
+<a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg"width="34" /></a>
+<a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" width="65" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="40" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="40" /></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/960px-Adobe_Illustrator_CC_icon.svg.png" width="40" /></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" width="40" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linux.webp" width="40" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" /></a>
 </p>
 
 ---
