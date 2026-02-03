@@ -15,7 +15,7 @@ Let me break it down further with what's below:
 
 ---
 
-## 🖥 My baby - HMLAB-CRICRI
+## 🖥 My Baby - HMLAB-CRICRI
 
 HMLAB-CRICRI is a long dreamt project of mine. It features an recycled Thinkstation D30, with a lot or reused part, breathing new life into it.
 It currently runs as the following:
@@ -25,7 +25,7 @@ It currently runs as the following:
 - **[Watchyourlan + Portracker + Glances]** - network and system monitoring
 - **[Crafty]** - Minecraft server management
 - **[Duplicati]** - Backup solution
-- **[Homepage]** - Personal unified Dashboard
+- **[Homepage]** - Personal unified dashboard
 
 All of these different services are accomodated with Tailscale, so it can be secure, but most importantly, accessible from anywhere, making it actually useful. 
 And what powers it all?
