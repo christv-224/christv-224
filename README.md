@@ -20,12 +20,20 @@ Let me break it down further with what's below:
 HMLAB-CRICRI is a long dreamt project of mine. It features an recycled Thinkstation D30, with a lot or reused part, breathing new life into it.
 It currently runs as the following:
 
-- **[Jellyfin + Arr stack]** - Streaming server
+- **[Jellyfin + Arr stack]** - Streaming server & automation
 - **[Casaos + Samba]** - Personal cloud storage
-- **[Watchyourlan + portracker + glances]** - Monitoring services
-- **[Crafty]** - Minecraft server
+- **[Watchyourlan + Portracker + Glances]** - network and system monitoring
+- **[Crafty]** - Minecraft server management
 - **[Duplicati]** - Backup solution
-- **[Homepage]** - Personal Dashboard
+- **[Homepage]** - Personal unified Dashboard
+
+All of these different services are accomodated with Tailscale, so it can be secure, but most importantly, accessible from anywhere, making it actually useful. 
+And what powers it all?
+
+- **[CPU]** - Xeon E5-1650
+- **[RAM]** - 32 Go ECC DDR3 1600 MHZ
+- **[Storage]** - 7 TB
+- **[OS]** - Ubuntu 24.04.3 LTS
 
 ---
 
@@ -73,9 +81,8 @@ It currently runs as the following:
 ## 📨 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/christopher verdi" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="40"/></a>
-<a href="https://fb.com/christo verdi" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" width="40"/></a>
-<a href="https://instagram.com/christv224" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" width="40"/></a>
+<a href="https://linkedin.com/in/christopherverdi" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="40"/></a>
+<a href="https://fb.com/christoverdi" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" width="40"/></a>
 <a href="https://discord.gg/christv22" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" width="40"/></a>
 </p>
 
