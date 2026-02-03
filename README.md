@@ -78,6 +78,13 @@ And what powers it all?
 
 ---
 
+## 📨 Stats
+
+[![Christv-224's GitHub stats](https://github-readme-stats.vercel.app/api?username=christv-224)](https://github.com/christv-224)/github-readme-stats)
+
+
+---
+
 ## 📨 Connect with me
 
 <p align="left">
