@@ -81,9 +81,7 @@ And what powers it all?
 ## 📨 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/christopherverdi" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="40"/></a>
-<a href="https://fb.com/christoverdi" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" width="40"/></a>
-<a href="https://discord.gg/christv22" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" width="40"/></a>
+<a href="https://www.linkedin.com/in/christopher-verdi-711370387/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="40"/></a>
 </p>
 
 ---
