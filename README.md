@@ -80,7 +80,7 @@ And what powers it all?
 
 ## 📨 Stats
 
-[![christv-224's GitHub stats](https://github-readme-stats.vercel.app/api?username=christv-224)](https://github.com/christv-224)
+![](https://github-readme-stats.vercel.app/api?username=christv-224)
 
 ---
 
