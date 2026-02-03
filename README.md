@@ -1,30 +1,41 @@
-<h1 align="center">Hello guys! Christopher's here 🦖</h1>
+<h1 align="center">Hello guys! Christopher's here ✌🏼</h1>
 
 <p align="center">
-  <b>Certified hardworking pal</b><br>
+  <b>Student software developer focused on homelabs, Linux, and self-hosted infrastructure</b><br>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🦖 About Me
 
-Hi, Im currently studying in software development, in Québec.
-
-Im a huge geek about any tech-related stuff, and reusing old stuff, as much as i can.
-After finishing my DEP in IT support, i've confirmed my intention of going in coding, as a first interest.
-Let me break it down further down:
-
+Hi, I’m currently studying software development in Québec.
+I’m a huge geek about anything tech-related, especially reusing old hardware and building my own systems.
+After finishing my DEP in IT support, I confirmed to myself that I wanted to go deeper into coding and development.
+Let me break it down further with what's below:
 
 ---
 
-## 🛠 What I’m Currently Working On
+## 🖥 My baby - HMLAB-CRICRI
 
-- 🧪 **[HMLAB-CRICRI]** — Homelab, private cloud server, dashboard, streaming, home automation, Minecraft server, monitoring and more
-- 🖥 **[JavaProject]** — Studying, class projects
+HMLAB-CRICRI is a long dreamt project of mine. It features an recycled Thinkstation D30, with a lot or reused part, breathing new life into it.
+It currently runs as the following:
+
+- **[Jellyfin + Arr stack]** - Streaming server
+- **[Casaos + Samba]** - Personal cloud storage
+- **[Watchyourlan + portracker + glances]** - Monitoring services
+- **[Crafty]** - Minecraft server
+- **[Duplicati]** - Backup solution
+- **[Homepage]** - Personal Dashboard
 
 ---
 
-## 🧪 My Stack
+## 🔧 What I’m Currently Working On
+
+- **[JavaProject]** — Studying, class projects
+
+---
+
+## 🧰 My Stack
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" width="40" /></a>
@@ -42,23 +53,14 @@ Let me break it down further down:
 
 ---
 
-## 🔥 What I’m Good At
+## 💡 What I’m Good At
 
-Write this as bullets:
 - **[Docker]** – Self-host different services
 - **[Linux]** – Servers, scripts, bash
-
-Examples:
-- Docker → self-hosting services  
-- Linux → system setup, troubleshooting  
-- Web → small dashboards, landing pages  
-- Java → Minecraft servers, apps  
-
+  
 ---
 
-## 🧭 What I Want To Learn
-
-This makes you look serious:
+## 📚 What I Want To Learn
 
 - Reverse proxies
 - Proxmox
@@ -68,7 +70,7 @@ This makes you look serious:
 
 ---
 
-## 📬 Connect with me
+## 📨 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/christopher verdi" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="40"/></a>
