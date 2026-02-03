@@ -82,6 +82,8 @@ And what powers it all?
 
 ![Christv_224's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christv-224&theme=github_dark)
 
+[![Christv_224's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christv224)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📨 Connect with me
