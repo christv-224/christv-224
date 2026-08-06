@@ -82,7 +82,7 @@ And what powers it all?
 
 ## 📨 Stats
 
-![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christv-224&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=christv-224&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=christv-224&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=dark)
 
 ---
 
