@@ -51,7 +51,7 @@ And what powers it all?
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" width="40" /></a>
 <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg"width="34" /></a>
 <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" width="65" /></a>
-<a href="https://www.construct.net/en" target="_blank"><img src="https://static.wikia.nocookie.net/scirra/images/0/04/Construct3Logo.png/revision/latest/thumbnail/width/360/height/450?cb=20250505135909" width="40" /></a>
+<a href="https://www.construct.net/en" target="_blank"><img src="https://construct-static.com/images/v1780/global/construct-3-logo.png" width="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="40" /></a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/960px-Adobe_Illustrator_CC_icon.svg.png" width="40" /></a>
