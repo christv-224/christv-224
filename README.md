@@ -20,9 +20,9 @@ Let me break it down further with what's below:
 HMLAB-CRICRI is a long dreamt project of mine. It features an recycled Thinkstation D30, with a lot or reused part, breathing new life into it.
 It currently runs as the following:
 
-- **[Jellyfin + Arr stack]** - Streaming server & automation
-- **[Casaos + Samba]** - Personal cloud storage
-- **[Watchyourlan + Portracker + Glances]** - network and system monitoring
+- **[Jellyfin + Arr stack]** - Media streaming server & automation
+- **[ZimaOS + Samba]** - Personal cloud storage
+- **[Watchyourlan + Portracker + Glances + DockPeek]** - network and system monitoring
 - **[Crafty]** - Minecraft server management
 - **[Duplicati]** - Backup solution
 - **[Homepage]** - Personal unified dashboard
