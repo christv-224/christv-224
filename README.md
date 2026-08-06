@@ -32,14 +32,15 @@ And what powers it all?
 
 - **[CPU]** - Xeon E5-1650
 - **[RAM]** - 32 Go ECC DDR3 1600 MHZ
-- **[Storage]** - 7 TB
-- **[OS]** - Ubuntu 24.04.3 LTS
+- **[Storage]** - 8 TB
+- **[OS]** - ZimaOS
 
 ---
 
 ## 🔧 What I’m Currently Working On
 
-- **[JavaProject]** — Studying, class projects
+- **[CEGEP]** — Studying, class projects
+- **[Minecraft-Macro-link-Mod-1.21.11]** — Fork of an Macro Deck 2 Minecraft mod
 
 ---
 
@@ -65,6 +66,7 @@ And what powers it all?
 
 - **[Docker]** – Self-host different services
 - **[Linux]** – Servers, scripts, bash
+- **[java]** – Small algorithm and programs
   
 ---
 
