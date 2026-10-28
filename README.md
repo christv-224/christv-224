@@ -17,8 +17,8 @@ Let me break it down further with what's below:
 
 ## 🖥 My Baby - HMLAB-CRICRI
 
-HMLAB-CRICRI is a long dreamt project of mine. It features an recycled Thinkstation D30, with a lot or reused part, breathing new life into it.
-It currently runs as the following:
+HMLAB-CRICRI is a long dreamt project of mine. It features a recycled Thinkstation D30, with a lot or reused part, breathing new life into it.
+It currently runs the following:
 
 - **[Jellyfin + Arr stack]** - Media streaming server & automation
 - **[ZimaOS + Samba]** - Personal cloud storage
@@ -27,7 +27,7 @@ It currently runs as the following:
 - **[Duplicati]** - Backup solution
 - **[Homepage]** - Personal unified dashboard
 
-All of these different services are accomodated with Tailscale, so it can be secure, but most importantly, accessible from anywhere, making it actually useful. 
+All of these different services are accomodated with Tailscale, so it is secure, but most importantly, accessible from anywhere, making it actually useful. 
 And what powers it all?
 
 - **[CPU]** - Xeon E5-1650
@@ -39,7 +39,7 @@ And what powers it all?
 
 ## 🔧 What I’m Currently Working On
 
-- **[CEGEP]** — Studying, class projects
+- **[STUDIES]** — Studying, class projects
 - **[Minecraft-Macro-link-Mod-1.21.11]** — Fork of an Macro Deck 2 Minecraft mod
 
 ---
