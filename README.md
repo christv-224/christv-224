@@ -39,7 +39,7 @@ And what powers it all?
 
 ## 🔧 What I’m Currently Working On
 
-- **[STUDIES]** — Studying, class projects
+- **[Studies]** — Studying, class projects
 - **[Minecraft-Macro-link-Mod-1.21.11]** — Fork of an Macro Deck 2 Minecraft mod
 
 ---
